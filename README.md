@@ -2,11 +2,11 @@
 
 A senior studying Computer science and MIS. I love reading books, video journaling, and photography. I am always open to collaboration and Coffee recs 🍵
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D0E1F9?style=for-the-badge&logo=linkedin&logoColor=333)](https://linkedin.com/in/nishtha-nabya)
-[![X](https://img.shields.io/badge/X-E2E2E2?style=for-the-badge&logo=x&logoColor=333)](https://www.x.com/Nishtha__N)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4E4BC?style=for-the-badge&logo=google-chrome&logoColor=333)](https://nishthanabya.cv)
-[![Email](https://img.shields.io/badge/Email-F3D5D5?style=for-the-badge&logo=gmail&logoColor=333)](mailto:nishtha.nabya@gmail.com)
+## 🌐 Connect with me:
+[![Email](https://img.shields.io/badge/Email-fffdf7?style=for-the-badge&logo=gmail&logoColor=6798c0)](mailto:nishtha.nabya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fffdf7?style=for-the-badge&logo=linkedin&logoColor=6798c0)](https://linkedin.com/in/nishtha-nabya)
+[![X](https://img.shields.io/badge/X-fffdf7?style=for-the-badge&logo=x&logoColor=6798c0)](https://www.x.com/Nishtha__N)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fffdf7?style=for-the-badge&logo=google-chrome&logoColor=6798c0)](https://nishthanabya.cv)
 
 ## 💻 Tech Stack
 
