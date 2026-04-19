@@ -1,6 +1,6 @@
-# 💫 About Me:
-Hi, I am Nishtha!👋 A senior studying Business Analytics, Information Systems, and Computer Science. I love reading books, video journaling, and photography. I am always open to collaboration and Matcha recs 🍵
+#  Hey, I'm Nishtha! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nno5c2piMGk3NHF2bmg4aTlnbjA5NnB1Mm0yaTUyZnUyOXo5MWxtaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7T8BMZR3qdCUig46Z6/giphy.gif" width="35">
 
+Hi, I am Nishtha!👋 A senior studying Business Analytics, Information Systems, and Computer Science. I love reading books, video journaling, and photography. I am always open to collaboration and Matcha recs 🍵
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishtha.nabya@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishtha-nabya/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://nishthanabya.cv)
