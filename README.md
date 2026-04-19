@@ -33,7 +33,3 @@ A senior studying Computer science and MIS. I love reading books, video journali
 ![Spark](https://img.shields.io/badge/Spark-6798c0?style=for-the-badge&logo=apache-spark&logoColor=fffdf7)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nishthanabya&icon=0&color=6798c0" alt="visitor count" />
-</p>
