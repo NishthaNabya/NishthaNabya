@@ -1,4 +1,4 @@
-#  Hey, I'm Nishtha! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nno5c2piMGk3NHF2bmg4aTlnbjA5NnB1Mm0yaTUyZnUyOXo5MWxtaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7T8BMZR3qdCUig46Z6/giphy.gif" width="50">
+#  Hey, I'm Nishtha! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nno5c2piMGk3NHF2bmg4aTlnbjA5NnB1Mm0yaTUyZnUyOXo5MWxtaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7T8BMZR3qdCUig46Z6/giphy.gif" width="70">
 
 Hi, I am Nishtha!👋 A senior studying Business Analytics, Information Systems, and Computer Science. I love reading books, video journaling, and photography. I am always open to collaboration and Matcha recs 🍵
 
