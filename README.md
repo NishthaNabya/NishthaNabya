@@ -10,31 +10,30 @@ A senior studying Computer science and MIS. I love reading books, video journali
 
 ## 💻 Tech Stack
 
-### 🍵 Core Languages & Cloud
-![Python](https://img.shields.io/badge/Python-D4E4BC?style=flat-square&logo=python&logoColor=333)
-![Go](https://img.shields.io/badge/Go-D0E1F9?style=flat-square&logo=go&logoColor=333)
-![JavaScript](https://img.shields.io/badge/JavaScript-F3D5D5?style=flat-square&logo=javascript&logoColor=333)
-![TypeScript](https://img.shields.io/badge/TypeScript-E2E2E2?style=flat-square&logo=typescript&logoColor=333)
-![Ruby](https://img.shields.io/badge/Ruby-F9E2D2?style=flat-square&logo=ruby&logoColor=333)
-![AWS](https://img.shields.io/badge/AWS-D4E4BC?style=flat-square&logo=amazon-aws&logoColor=333)
+### 🍯 Core Languages & Cloud
+![Python](https://img.shields.io/badge/Python-fdc921?style=for-the-badge&logo=python&logoColor=fffdf7)
+![Go](https://img.shields.io/badge/Go-99d6ea?style=for-the-badge&logo=go&logoColor=fffdf7)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdd85d?style=for-the-badge&logo=javascript&logoColor=fffdf7)
+![TypeScript](https://img.shields.io/badge/TypeScript-6798c0?style=for-the-badge&logo=typescript&logoColor=fffdf7)
+![Ruby](https://img.shields.io/badge/Ruby-fdc921?style=for-the-badge&logo=ruby&logoColor=fffdf7)
+![AWS](https://img.shields.io/badge/AWS-99d6ea?style=for-the-badge&logo=amazon-aws&logoColor=fffdf7)
 
 ### 🐍 Python Ecosystem
-![FastAPI](https://img.shields.io/badge/FastAPI-D0E1F9?style=flat-square&logo=fastapi&logoColor=333)
-![Streamlit](https://img.shields.io/badge/Streamlit-F3D5D5?style=flat-square&logo=streamlit&logoColor=333)
-![Pandas](https://img.shields.io/badge/Pandas-E2E2E2?style=flat-square&logo=pandas&logoColor=333)
-![NumPy](https://img.shields.io/badge/NumPy-F9E2D2?style=flat-square&logo=numpy&logoColor=333)
-![PyTorch](https://img.shields.io/badge/PyTorch-D4E4BC?style=flat-square&logo=pytorch&logoColor=333)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-D0E1F9?style=flat-square&logo=tensorflow&logoColor=333)
-![ScikitLearn](https://img.shields.io/badge/Scikit_Learn-F3D5D5?style=flat-square&logo=scikitlearn&logoColor=333)
+![FastAPI](https://img.shields.io/badge/FastAPI-fdd85d?style=for-the-badge&logo=fastapi&logoColor=fffdf7)
+![Streamlit](https://img.shields.io/badge/Streamlit-6798c0?style=for-the-badge&logo=streamlit&logoColor=fffdf7)
+![Pandas](https://img.shields.io/badge/Pandas-fdc921?style=for-the-badge&logo=pandas&logoColor=fffdf7)
+![NumPy](https://img.shields.io/badge/NumPy-99d6ea?style=for-the-badge&logo=numpy&logoColor=fffdf7)
+![PyTorch](https://img.shields.io/badge/PyTorch-fdd85d?style=for-the-badge&logo=pytorch&logoColor=fffdf7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-6798c0?style=for-the-badge&logo=tensorflow&logoColor=fffdf7)
+![ScikitLearn](https://img.shields.io/badge/Scikit_Learn-fdc921?style=for-the-badge&logo=scikitlearn&logoColor=fffdf7)
 
 ### 🐘 Apache Ecosystem
-![Hadoop](https://img.shields.io/badge/Hadoop-E2E2E2?style=flat-square&logo=apache-hadoop&logoColor=333)
-![Kafka](https://img.shields.io/badge/Kafka-F9E2D2?style=flat-square&logo=apache-kafka&logoColor=333)
-![Hive](https://img.shields.io/badge/Hive-D4E4BC?style=flat-square&logo=apache-hive&logoColor=333)
-![Spark](https://img.shields.io/badge/Spark-D0E1F9?style=flat-square&logo=apache-spark&logoColor=333)
+![Hadoop](https://img.shields.io/badge/Hadoop-99d6ea?style=for-the-badge&logo=apache-hadoop&logoColor=fffdf7)
+![Kafka](https://img.shields.io/badge/Kafka-fdd85d?style=for-the-badge&logo=apache-kafka&logoColor=fffdf7)
+![Spark](https://img.shields.io/badge/Spark-6798c0?style=for-the-badge&logo=apache-spark&logoColor=fffdf7)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nishthanabya&icon=0&color=D4E4BC" alt="visitor count" />
+  <img src="https://visitcount.itsvg.in/api?id=nishthanabya&icon=0&color=6798c0" alt="visitor count" />
 </p>
