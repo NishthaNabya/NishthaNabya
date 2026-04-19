@@ -10,7 +10,7 @@ A senior studying Computer science and MIS. I love reading books, video journali
 
 ## 💻 Tech Stack
 
-### 🍯 Core Languages & Cloud
+### Core Languages & Cloud
 ![Python](https://img.shields.io/badge/Python-fdc921?style=for-the-badge&logo=python&logoColor=fffdf7)
 ![Go](https://img.shields.io/badge/Go-99d6ea?style=for-the-badge&logo=go&logoColor=fffdf7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fdd85d?style=for-the-badge&logo=javascript&logoColor=fffdf7)
@@ -18,7 +18,7 @@ A senior studying Computer science and MIS. I love reading books, video journali
 ![Ruby](https://img.shields.io/badge/Ruby-fdc921?style=for-the-badge&logo=ruby&logoColor=fffdf7)
 ![AWS](https://img.shields.io/badge/AWS-99d6ea?style=for-the-badge&logo=amazon-aws&logoColor=fffdf7)
 
-### 🐍 Python Ecosystem
+### Python Ecosystem
 ![FastAPI](https://img.shields.io/badge/FastAPI-fdd85d?style=for-the-badge&logo=fastapi&logoColor=fffdf7)
 ![Streamlit](https://img.shields.io/badge/Streamlit-6798c0?style=for-the-badge&logo=streamlit&logoColor=fffdf7)
 ![Pandas](https://img.shields.io/badge/Pandas-fdc921?style=for-the-badge&logo=pandas&logoColor=fffdf7)
@@ -27,7 +27,7 @@ A senior studying Computer science and MIS. I love reading books, video journali
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-6798c0?style=for-the-badge&logo=tensorflow&logoColor=fffdf7)
 ![ScikitLearn](https://img.shields.io/badge/Scikit_Learn-fdc921?style=for-the-badge&logo=scikitlearn&logoColor=fffdf7)
 
-### 🐘 Apache Ecosystem
+### Apache Ecosystem
 ![Hadoop](https://img.shields.io/badge/Hadoop-99d6ea?style=for-the-badge&logo=apache-hadoop&logoColor=fffdf7)
 ![Kafka](https://img.shields.io/badge/Kafka-fdd85d?style=for-the-badge&logo=apache-kafka&logoColor=fffdf7)
 ![Spark](https://img.shields.io/badge/Spark-6798c0?style=for-the-badge&logo=apache-spark&logoColor=fffdf7)
