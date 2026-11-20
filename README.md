@@ -5,8 +5,8 @@ A senior studying Computer science and MIS. I love reading books, video journali
 ## 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/Email-fffdf7?style=for-the-badge&logo=gmail&logoColor=6798c0)](mailto:nishtha.nabya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fffdf7?style=for-the-badge&logo=linkedin&logoColor=6798c0)](https://linkedin.com/in/nishtha-nabya)
-[![X](https://img.shields.io/badge/X-fffdf7?style=for-the-badge&logo=x&logoColor=6798c0)](https://www.x.com/Nishtha__N)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fffdf7?style=for-the-badge&logo=google-chrome&logoColor=6798c0)](https://nishthanabya.cv)
+[![X](https://img.shields.io/badge/X-fffdf7?style=for-the-badge&logo=x&logoColor=6798c0)](https://www.x.com/nishtha_nabya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fffdf7?style=for-the-badge&logo=google-chrome&logoColor=6798c0)](https://nishtha.com)
 
 ## 💻 Tech Stack
 
